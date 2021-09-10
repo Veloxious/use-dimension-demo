@@ -20,3 +20,8 @@ const App = () => {
   )
 }
 ```
+
+## To run demo
+
+`yarn`
+`yarn start`
